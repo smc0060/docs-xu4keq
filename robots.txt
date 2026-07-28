@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-t9onl0.indocuan.online/sitemap.xml
